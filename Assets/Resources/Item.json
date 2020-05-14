@@ -1,0 +1,62 @@
+{
+	"1":
+	{
+		"ID":8,
+		"Name":"来复枪子弹",
+		"Type":"Bullet",
+		"Path":"", 
+		"IconPath":"UI/BulletIcon/Rifle",
+		"Description":"这是来复枪子弹",
+		"Capacity": 10,
+		"MaxStorage":20,
+		"BuyPrice":20
+	},
+	"2":
+	{
+		"ID":9,
+		"Name":"冲锋枪子弹",
+		"Type":"Bullet",
+		"Path":"", 
+		"IconPath":"UI/BulletIcon/Automica",
+		"Description":"这是冲锋枪子弹",
+		"Capacity": 20,
+		"MaxStorage":20,
+		"BuyPrice":20
+	},
+	"3":
+	{
+		"ID":10,
+		"Name":"机枪子弹",
+		"Type":"Bullet",
+		"Path":"", 
+		"IconPath":"UI/BulletIcon/Submachine",
+		"Description":"这是机枪子弹",
+		"Capacity": 3,
+		"MaxStorage":20,
+		"BuyPrice":20
+	},
+	"4":
+	{
+		"ID":11,
+		"Name":"火箭子弹",
+		"Type":"Bullet",
+		"Path":"", 
+		"IconPath":"UI/BulletIcon/Bang",
+		"Description":"这是火箭子弹",
+		"Capacity": 4,
+		"MaxStorage":20,
+		"BuyPrice":20
+	},
+	"5":
+	{
+		"ID":12,
+		"Name":"镭射枪子弹",
+		"Type":"Bullet",
+		"Path":"", 
+		"IconPath":"UI/BulletIcon/Laser",
+		"Description":"这是镭射枪子弹",
+		"Capacity": 1,
+		"MaxStorage":20,
+		"BuyPrice":20
+	}
+}
